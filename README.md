@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-  &nbsp; WELCOME TO DJ KING WORLD PROFILE &nbsp;
+  &nbsp; WELCOME DJ KING WORLD PROFILE &nbsp;
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
 
@@ -29,7 +29,6 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DJ-KING-ITS-AMINUL-OK&theme=merko)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DJ-KING-ITS-AMINUL-OK &theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MohsinTheLegend&layout=compact&theme=chartreuse-dark" />
 
@@ -43,7 +42,7 @@
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SABBIR404-CYBER) <a href="https://github.com/SABBIR404-CYBER"></a>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DJ-KING-ITS-AMINUL-OK) <a href="https://github.com/DJ-KING-ITS-AMINUL-OK"></a>
 
 </p>
 
@@ -86,4 +85,3 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
-
